@@ -2,6 +2,22 @@
 ref:
 https://ecency.com/python/@full-steem-ahead/howto-an-introduction-to-python-bitshares
 `[https://python-bitshares.readthedocs.io/en/latest/]`
+ THEN ..
+ 1. Installation¶
+Installation
+Install with pip:
+
+$ sudo apt-get install libffi-dev libssl-dev python3-dev
+$ pip3 install bitshares
+
+2. Manual installation:
+
+$ git clone https://github.com/xeroc/python-bitshares/
+$ cd python-bitshares
+$ python3 setup.py install --user
+
+2. Upgrade
+$ pip3 install bitshares --user --upgrade
 https://uptick.readthedocs.io/en/latest/
 
 
