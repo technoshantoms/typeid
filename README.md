@@ -1,5 +1,6 @@
 # UUID-compatible Typed IDs with prefixes
 `[https://python-bitshares.readthedocs.io/en/latest/]`
+https://uptick.readthedocs.io/en/latest/
 [![Documentation](https://readthedocs.org/projects/typeid/badge/?version=latest)](https://typeid.readthedocs.io/en/latest/?badge=latest)
 
 `typid` is a python library that allows to create specific id types much like
